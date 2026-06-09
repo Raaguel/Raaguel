@@ -1,4 +1,4 @@
-# Hi, I'm Raaguel 👋
+# Hi, I'm Adedolapo Adeyemo 👋
 
 Welcome to my spatial data science and GIS portfolio. I specialize in building reproducible data pipelines, spatial analysis, and interactive mapping applications entirely in R.
 
